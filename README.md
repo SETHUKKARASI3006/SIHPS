@@ -59,6 +59,6 @@ The proposed solution could be a web application accessible through both desktop
 
 
 ## Dependencies
-Budget: Variable based on location
-Data collection: 4 Weeks
+Budget: Variable based on location <br>
+Data collection: 4 Weeks<br>
 Mapping services timing: 16 Days
